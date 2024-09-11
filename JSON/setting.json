@@ -1,0 +1,44 @@
+{
+    "LANG": {
+        "lang_dict": [
+            "EN-en",
+            "RU-ru"
+        ],
+        "RU-ru": [
+            "\u041d\u0430\u043f\u0438\u0448\u0438 \u0447\u0442\u043e-\u043d\u0438\u0431\u0443\u0434\u044c:",
+            "\u041e\u0442\u043f\u0440\u0430\u0432\u0438\u0442\u044c",
+            "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0438\u0442\u044c\u0441\u044f",
+            "\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u044f",
+            "\u0425\u043e\u0441\u0442:",
+            "\u041f\u043e\u0440\u0442:",
+            "\u0411\u0430\u0439\u0442\u044b:",
+            "\u042f\u0437\u044b\u043a",
+            "\u0421\u043e\u043a\u0435\u0442",
+            "\u0421\u0435\u043a\u0440\u0435\u0442\u043d\u044b\u0439 \u041a\u043b\u044e\u0447:",
+            "\u0412\u044b",
+            "\u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u043a\u043b\u044e\u0447",
+            "\u041a\u043b\u044e\u0447"
+        ],
+        "EN-en": [
+            "Write anything:",
+            "SEND",
+            "CONNECT",
+            "Connections",
+            "HOST:",
+            "PORT:",
+            "BYTES:",
+            "Language",
+            "Socket",
+            "Secret Key:",
+            "You",
+            "Generate Key",
+            "Key"
+        ]
+    },
+    "Connect": {
+        "Port": "",
+        "Host": "",
+        "Bytes": "",
+        "Key": ""
+    }
+}
